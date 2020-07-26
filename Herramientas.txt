@@ -1,0 +1,5 @@
+Links de herramientas 
+Backlog:
+https://fincasanmarcos.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=FIN&view=planning&selectedIssue=FIN-9&issueLimit=100
+Diseño FIGMA:
+https://www.figma.com/file/eBJHshF1Woyqsdq8dyYCPQ/Dise%C3%B1os-App-Finca-San-Marcos?node-id=0%3A1
